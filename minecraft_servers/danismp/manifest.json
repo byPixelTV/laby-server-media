@@ -3,7 +3,8 @@
     "nice_name": "DaniSMP",
     "direct_ip": "danismp.net",
     "server_wildcards": [
-      "%.danismp.net"
+      "%.danismp.net",
+      "danismp.de"
     ],
     "supported_languages": [
        "en",
